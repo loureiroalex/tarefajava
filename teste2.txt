@@ -1,0 +1,36 @@
+git branch - verifica se está na main
+git checkout -b alteracao-arquivo1 - criando e mudando para a branch.
+git add
+git commit -m "inclusao de ola mundo no arquivo1
+git push -u origin alteracao-arquivo1
+foi para branch - alteracao-arquivo1
+
+depois jogar ela com a branch principal que é a MAIN - MERGE
+
+fazer a MERGE PRINCIPAL:
+git checkout main
+git branch vai mostrar que eu voltei pra branch principal.
+git MERGE alteracao-arquivo1
+git push -u origin main
+
+git branch
+git checkout -b alteracao-arquivo2
+git branch
+git add
+git commit -m "alteracao-arquivo2"
+git branch
+git merge alteracao-arquivo2
+ir para a principal: GIT CHECKOUT MAIN
+git pull na MAIN- ele vai atualizar seu arquivo com os demais
+git pull no seu arquivo também - faz isso antes de mergear
+
+
+
+
+
+
+
+
+
+
+sales force - um programa
