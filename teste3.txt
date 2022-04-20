@@ -1,0 +1,7 @@
+SCRUM - PO vai fazer a regra do negocio - fecha com o cliente e manda para o arquiteto.
+
+REGRA DE NEGOCIO - P.O - ARQUITETO DE SOFTWARE- ENGENHEIRO DE SOFTWARE - DESENVOLVEDORES
+
+KANBAN -
+DAILY - REUNIÃO DIÁRIA
+REFINAMENTO - SE JUNTA TODO MUNDO PRA TIRAR DÚVIDA.
